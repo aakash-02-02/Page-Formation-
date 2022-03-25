@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    color: white;
+    background-color: black;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 70px;
+}
+div.container{
+    background-color: black;
+    color: white;
+}
+.cont{
+    padding-top: 10px;
+    padding-bottom: 25px; 
+}
+form {    
+    height: 30vh;
+    color: white;
+    background-image: linear-gradient(to left, rgb(255, 0, 0), black);
+    border: 5px dashed black;
+     border-right: 5px solid black;
+    /* border-bottom: 4px dashed black;
+    border-top: 4px dashed black; */
+    padding: 15px;
+}
+.clg{
+    background: linear-gradient(to left, rgb(255, 0, 0), black);
+}
+.clg1{
+    margin: 2px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.clg2{
+    background: linear-gradient(to left, rgb(255, 0, 0), pink, white);
+    border-radius: 12px;
+}
+.clg3{
+    padding: 5px;
+    margin: 2px;
+}
+img{
+    margin: 5px;
+    height: 100%;
+    width: 100%;
+    border-radius: 50px;
+}
+footer{
+    color: white;
+    background-color: black;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 70px;
+}
